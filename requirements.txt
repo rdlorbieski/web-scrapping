@@ -1,0 +1,9 @@
+selenium
+pydantic
+python-dotenv
+requests
+openai
+beautifulsoup4
+lxml
+pymongo
+streamlit
